@@ -1,4 +1,4 @@
-<!-- # Título principal
+# Título principal
 
 Este é um exemplo de arquivo README.md que utiliza todas as variações do código Markdown. Aqui você vai encontrar desde títulos e formatação de texto até listas e links.
 
@@ -84,4 +84,4 @@ Este é um exemplo básico de arquivo README.md que utiliza várias variações 
 ``` Fiz uma alteração para teste ```
 
 Fiz outra alteração
--->
+
