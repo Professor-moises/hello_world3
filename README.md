@@ -86,3 +86,5 @@ Este é um exemplo básico de arquivo README.md que utiliza várias variações 
 Fiz outra alteração
 LUCAS SANTANA 
 MUDANÇA DE CODIGO 
+
+Pedro
