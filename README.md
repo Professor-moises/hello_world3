@@ -40,7 +40,7 @@ Crie links para sites como [Google](https://www.google.com/) e para outras parte
 
 ### Código
 
-Para destacar blocos de código, utilize backticks:
+Para destacar blocos de código, utilize três backticks:
 
 let exemplo = "Este é um exemplo de código";
 console.log(exemplo);
@@ -85,3 +85,6 @@ Este é um exemplo básico de arquivo README.md que utiliza várias variações 
 
 Fiz outra alteração
 
+ <h1>
+  text
+  </h1>
