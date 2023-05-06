@@ -24,6 +24,3 @@ HELLO WORLD
 </ol>
 
 
-<button>
-  botãozin
-  </button>
